@@ -2,7 +2,7 @@
 
 const nextConfig = {
   env: {
-    name: 'CustomKasm',
+    name: 'kasmregistry',
     description: 'Custom Registry designed by accident',
     icon: '/img/logo.svg',
     listUrl: 'https://github.com/wotansreich/kasmregistry',
